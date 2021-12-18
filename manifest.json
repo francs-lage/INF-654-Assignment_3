@@ -1,0 +1,25 @@
+{
+    "name": "Grocery List App",
+    "short_name": "Grocery",
+    "description": "Manage the list of groceries to shop",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "Browser",
+    "orientation": "portrait-primary",
+    "background_color": "#b1dae7",
+    "theme_color": "#cb7cf1",
+    "dir": "ltr",
+    "lang": "en-US",
+    "icons": [
+        {
+            "src": "/img/icon-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/img/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+    ]
+} 
